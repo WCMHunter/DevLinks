@@ -6,7 +6,7 @@ function toggleMode() {
   // } else {
   //  html.classList.add('light')
   // }
-
+  // save point creat
   //pegar a tag img 
   const img = document.querySelector("#profile img")
   //substituir a img

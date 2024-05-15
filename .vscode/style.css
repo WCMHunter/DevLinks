@@ -138,6 +138,7 @@ ul li a:hover {
   background: var(--highlight-color);
   border-radius: 50%;
 }
+/*footer*/
 footer {
   text-align: center;
   padding: 24px 0;
